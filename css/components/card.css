@@ -1,0 +1,18 @@
+.card {
+  width: 200px;
+  border-radius: 3px;
+  box-shadow: 0 0 5px #e6e6e6;
+  text-align: center;
+  padding: 20px;
+  border: 1px solid #e6e6e6;
+}
+
+.card img {
+  height: 150px;
+  width: 150px;
+  margin: 0 auto;
+}
+
+.card p {
+  opacity: .6;
+}
